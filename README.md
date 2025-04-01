@@ -1,16 +1,16 @@
 YumFinder is a React.js application that lets you search for recipes by their names using the MealDB API. Whether you're looking for a quick snack or a gourmet meal, YumFinder helps you discover detailed recipes with ingredients, instructions, and images.
 
 ✨ Features
- Search for recipes by name
- View detailed recipe instructions
- See ingredients and meal images
- Lightweight and fast UI with React
- Fetches data dynamically from the MealDB API
+ 1.Search for recipes by name
+ 2.View detailed recipe instructions
+ 3.See ingredients and meal images
+ 4.Lightweight and fast UI with React
+ 5.Fetches data dynamically from the MealDB API
 
-Tech Stack
- React.js – Frontend framework
- MealDB API – Recipe database
- CSS – Styling
+✨Tech Stack
+ 1.React.js – Frontend framework
+ 2.MealDB API – Recipe database
+ 3.CSS – Styling
 
  Screenshot of YumFinder:
  
